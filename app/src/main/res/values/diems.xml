@@ -3,6 +3,7 @@
     <dimen name="text_size">16sp</dimen>
     <dimen name="text_size_little">8sp</dimen>
     <dimen name="padding">8dp</dimen>
+    <dimen name="haight">133dp</dimen>
     <dimen name="margin_left">20dp</dimen>
     <dimen name="margin_end">5dp</dimen>
     <dimen name="margin_right">20dp</dimen>

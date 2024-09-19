@@ -108,7 +108,7 @@
 
     <GridLayout
         android:layout_width="@dimen/margin_width_290"
-        android:layout_height="133dp"
+        android:layout_height="@dimen/haight"
         android:layout_gravity="end"
         android:layout_marginLeft="@dimen/margin_left"
         android:layout_marginTop="@dimen/margin_top_20"
