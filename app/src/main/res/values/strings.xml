@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Depozit</string>
+    <string name="depozit">Депозит</string>
+    <string name="twenty_three_procent">23%</string>
+    <string name="komissia">Комиссия</string>
+    <string name="summa">Сумма</string>
+    <string name="enter_summ">Введите сумму</string>
+    <string name="_230000_00">230000.00</string>
+    <string name="_1230000_00">1230000.00</string>
+    <string name="made_in">Made in &#x1F1F0;&#x1F1FF;</string>
+    <string name="BY_Katerin">BY Katerin 😊</string>
+    <string name="c">C</string>
+    <string name="ok">OK</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+</resources>
